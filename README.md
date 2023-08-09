@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+You can find the project here: https://trlivenp.github.io/Random-Password-Generator/
+
 When you first open the website you will see a screen alike the one pictured below. To recieve a randomly generated password first you will want to simply just click the red button at the bottome of the screen. 
 
 ![Homescreen of webpage](./assets/Screenshot%202023-08-04%20162559.png)
